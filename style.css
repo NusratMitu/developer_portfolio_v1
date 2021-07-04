@@ -56,3 +56,16 @@ h2 {
 .experience_area p {
   font-size: 18px;
 }
+#full_stack_dev {
+  border-left: 7px solid;
+  border-image-slice: 1;
+  border-image: linear-gradient(#ec2255, #f56c54) 40;
+}
+#baby_web_dev {
+  border-left: 7px solid;
+  border-image-slice: 1;
+  border-image: linear-gradient(#9400a1, #f89af0) 40;
+}
+footer p {
+  text-align: center;
+}
